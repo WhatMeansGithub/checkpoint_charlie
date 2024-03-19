@@ -42,7 +42,7 @@ h2 {
 Are you ready to morph into a Power Ranger and save the world?
 
 
-##How to NOT push to a shared repository
+## How to NOT push to a shared repository
 
 - Do not push while someone else is pushing.
 - Always pull before you push. Unless someone else is pushing after you pulled.
