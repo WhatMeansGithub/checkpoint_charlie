@@ -11,12 +11,36 @@ Once upon a time, a team tried to work on the same file without causing any issu
     </div>
 </div>
 
+<div style="position: relative;">
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+        <div style="width: 200px; height: 10px; border-radius: 50%; background-color: #ff00ff; animation: pulsate 2s ease-in-out infinite;"></div>
+    </div>
+</div>
+
 <style>
 @keyframes glitter {
     0% { background-position: 0% 50%; }
     100% { background-position: 100% 50%; }
 }
+
+@keyframes pulsate {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.2); }
+    100% { transform: scale(1); }
+}
+
+h2 {
+    position: relative;
+    z-index: 1;
+}
 </style>
+
+## Power Rangers
+
+![power rangers gif](https://i.pinimg.com/originals/01/e6/fa/01e6fa9cea757c01e79039b0d12d4bc8.gif)
+
+Are you ready to morph into a Power Ranger and save the world?
+
 
 ##How to NOT push to a shared repository
 
