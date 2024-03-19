@@ -35,7 +35,6 @@ h2 {
 }
 </style>
 
-<<<<<<< HEAD
 # Hello
 =======
 ## Power Rangers
@@ -57,4 +56,4 @@ Are you ready to morph into a Power Ranger and save the world?
 - Maybe do not actually push anything to GitHub. It's not worth it. You're thinking abour starting a new career as a gardener once you have recovered from your mental breakdown.
 
 # hello
->>>>>>> refs/remotes/origin/main
+
