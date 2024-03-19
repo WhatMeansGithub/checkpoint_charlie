@@ -34,3 +34,9 @@ h2 {
     z-index: 1;
 }
 </style>
+
+## Power Rangers
+
+![power rangers gif](https://i.pinimg.com/originals/01/e6/fa/01e6fa9cea757c01e79039b0d12d4bc8.gif)
+
+Are you ready to morph into a Power Ranger and save the world?
