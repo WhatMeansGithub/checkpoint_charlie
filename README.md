@@ -35,4 +35,26 @@ h2 {
 }
 </style>
 
+<<<<<<< HEAD
 # Hello
+=======
+## Power Rangers
+
+![power rangers gif](https://i.pinimg.com/originals/01/e6/fa/01e6fa9cea757c01e79039b0d12d4bc8.gif)
+
+Are you ready to morph into a Power Ranger and save the world?
+
+
+## How to NOT push to a shared repository
+
+- Do not push while someone else is pushing.
+- Always pull before you push. Unless someone else is pushing after you pulled.
+- Live dangerously: use merge. It's not going to work. Try again. The conflict manager opens. It's still not working. Rage reverse to 6 commits in the past. All your work from the last 2 hours is lost. Go for a walk.
+- Turn on your computer again.
+- Why are you logged out of GitHub? GitHub sends a code to your email address to log in. Your email provider sends a code on your phone to log in. You suddenly have no phone network for no apparent reason.
+- You are finally back in. Pull again. There is a conflict.
+- You try to force push anyway. Turns out you pushed from a even earlier commit. Your repository now only contains an empty README.md file.
+- Maybe do not actually push anything to GitHub. It's not worth it. You're thinking abour starting a new career as a gardener once you have recovered from your mental breakdown.
+
+# hello
+>>>>>>> refs/remotes/origin/main
